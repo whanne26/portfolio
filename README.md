@@ -7,21 +7,21 @@ My name is Weronika Hannemann. I completed a course and a month-long internship 
 * Jira
 * Github
 # Tech skills
-*SQL
-*Software testing
-*Creating test cases
-*Reporting bugs
-*Writing test scripts
+* SQL
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Writing test scripts
 # Courses
-*Testerzy.pl Zawód tester
+* Testerzy.pl Zawód tester
 # Groups on Facebook
-*Testowanie oprogramowania
-*Tester oprogramowania - wsparcie na starcie
-*Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior)
-*Testuj, Dziewczyno!
+* Testowanie oprogramowania
+* Tester oprogramowania - wsparcie na starcie
+* Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior)
+* Testuj, Dziewczyno!
 # Recommended blogs
-*testerzy.pl
-*tester.milenabednarczyk.pl
+* testerzy.pl
+* tester.milenabednarczyk.pl
 # My test case examples
 [Test cases on practical exercises testerzy.pl](https://drive.google.com/drive/folders/1QxGTIfYM8fvX9-zhAfvfuHakANzJv8Yv?hl=pl)
 # My bug reports
