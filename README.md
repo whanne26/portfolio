@@ -20,8 +20,8 @@ My name is Weronika Hannemann. I completed a course and a month-long internship 
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior)
 * Testuj, Dziewczyno!
 # Recommended blogs
-* [testerzy.pl] (https://testerzy.pl/)
-* [tester.milenabednarczyk.pl] (https://tester.milenabednarczyk.pl/)
+* [testerzy.pl](https://testerzy.pl/)
+* [tester.milenabednarczyk.pl](https://tester.milenabednarczyk.pl/)
 # My test case examples
 [Test cases on practical exercises testerzy.pl](https://drive.google.com/drive/folders/1QxGTIfYM8fvX9-zhAfvfuHakANzJv8Yv?hl=pl)
 # My bug reports
