@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 My Tester's portfolio
 # About me
 My name is Weronika Hannemann. I completed a course and a month-long internship as a manual software tester. I am currently preparing for the ISTQB test.
