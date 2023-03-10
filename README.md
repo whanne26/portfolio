@@ -4,6 +4,7 @@ My Tester's portfolio
 My name is Weronika Hannemann. I completed a course and a month-long internship as a manual software tester. I search for and use every testing opportunity to keep learning
 # Tools
 * Postman
+* TestRail
 * Jira
 * Github
 # Tech skills
