@@ -25,8 +25,8 @@ My name is Weronika Hannemann. I completed a course and a month-long internship 
 * Conducting comparisons of streaming platforms
 # Courses
 * Testerzy.pl - Testing practice: Profession tester
-*uTest academy - Introductory academy
-*Testbirds - Entrance examy
+* uTest academy - Introductory academy
+* Testbirds - Entrance examy
 # Groups on Facebook
 * Testowanie oprogramowania
 * Tester oprogramowania - wsparcie na starcie
