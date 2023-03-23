@@ -34,8 +34,8 @@ My name is Weronika Hannemann. I completed a course and a month-long internship 
 * Testuj, Dziewczyno!
 # Recommended blogs
 * [testerzy.pl](https://testerzy.pl/)
-# My projects
 * [tester.milenabednarczyk.pl](https://tester.milenabednarczyk.pl/)
+# My projects
 * [Comparison of streaming platforms](https://drive.google.com/file/d/1URte38cgGAyy65i7WviXBk-9JgLpCr-l/view)
 * [Quality report and defects](https://drive.google.com/file/d/10vO39e7bgVHdNtB23RhBHxNFFjGXgkQY/view)
 * [Test cases](https://drive.google.com/file/d/1eXZBxmylnbuhM1c_211PFID-q1pBSNi8/view)
